@@ -1,0 +1,43 @@
+{
+  "data": {
+    "user": [
+      {
+        "createdAt": "2018-02-26T05:10:11.335Z",
+        "updatedAt": "2018-02-26T05:10:11.335Z",
+        "id": 1
+      },
+      {
+        "createdAt": "2018-02-26T05:10:14.389Z",
+        "updatedAt": "2018-02-26T05:10:14.389Z",
+        "id": 2
+      },
+      {
+        "name": "hector",
+        "createdAt": "2018-02-26T05:10:22.037Z",
+        "updatedAt": "2018-02-26T05:10:22.037Z",
+        "id": 3
+      }
+    ]
+  },
+  "schema": {
+    "user": {
+      "id": {
+        "type": "integer",
+        "autoIncrement": true,
+        "primaryKey": true,
+        "unique": true
+      },
+      "createdAt": {
+        "type": "datetime"
+      },
+      "updatedAt": {
+        "type": "datetime"
+      }
+    }
+  },
+  "counters": {
+    "user": {
+      "id": 3
+    }
+  }
+}
