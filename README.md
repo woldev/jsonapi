@@ -1,13 +1,9 @@
 # jsonapi
 
 [![GitHub license](https://img.shields.io/github/license/woldev/jsonapi.svg)](https://github.com/woldev/jsonapi/blob/master/LICENSE)
-
 [![GitHub issues](https://img.shields.io/github/issues/woldev/jsonapi.svg)](https://github.com/woldev/jsonapi/issues)
-
 [![GitHub stars](https://img.shields.io/github/stars/woldev/jsonapi.svg)](https://github.com/woldev/jsonapi/stargazers)
-
 [![GitHub forks](https://img.shields.io/github/forks/woldev/jsonapi.svg)](https://github.com/woldev/jsonapi/network)
-
 a [Sails](http://sailsjs.org) application
 
 ## Run 
